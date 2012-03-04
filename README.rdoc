@@ -1,6 +1,5 @@
 = YinXiangMa CAPTCHA
-ttt
-fdddff
+
 http://l.ruby-china.org/photo/6968dfd98b83bb26cba9f50f815b1cdd.png
 
 Author::    SouthWolf
